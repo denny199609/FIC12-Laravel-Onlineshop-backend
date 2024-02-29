@@ -22,11 +22,11 @@
                 </div>
             </div>
             <div class="section-body">
-                {{-- <div class="row">
+                <div class="row">
                     <div class="col-12">
                         @include('layouts.alert')
                     </div>
-                </div> --}}
+                </div>
                 <h2 class="section-title">Products</h2>
                 <p class="section-lead">
                     You can manage all Products, such as editing, deleting and more.
